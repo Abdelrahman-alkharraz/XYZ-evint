@@ -1,0 +1,44 @@
+body {
+    background-image: url(img-home/pngtree-modern-double-color-futuristic-neon-background-image_351866.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    margin: 0;
+    height: 162vh;
+}
+
+#info {
+    color: black;
+    font-size: larger;
+    width: 434px;
+    height: 167px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(173, 216, 230, 0.666);
+    margin: 48px auto;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+    flex-direction: column;
+}
+
+#info #A {
+    text-decoration: none;
+    color: red;
+    margin-left: 59px;
+}
+
+.tickets {
+    text-emphasis: none;
+    text-align: center;
+    font-size: 170%;
+    background-color: rgba(30, 210, 123, 0.125);
+    box-shadow: 0px 0px 44px rgb(18, 20, 19);
+    width: 589px;
+    height: 279px;
+    margin: 52px auto;
+    flex-direction: column;
+}
+
+
+

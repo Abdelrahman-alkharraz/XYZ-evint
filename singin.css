@@ -1,0 +1,37 @@
+body {
+    background-image: url('img-home/jonatan-pie-3l3RwQdHRHg-unsplash.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    margin: 0;
+    height: 100vh;
+}
+
+.signin {
+    text-emphasis: none;
+    text-align: center;
+    font-size: 170%;
+    background-color: rgba(30, 210, 123, 0.125);
+    box-shadow: 0px 0px 44px rgb(18, 20, 19);
+    width: 216px;
+    height: 191px;
+    margin: 52px auto;
+
+}
+
+#signin {
+    text-align: center;
+    font-size: 355%;
+    background-color: rgba(0, 247, 255, 0.252);
+    color: rgb(16, 16, 18);
+}
+
+#hevnt2 {
+    text-decoration: none;
+    text-align: center;
+    font-size: x-large;
+    padding: 10px 20px;
+    color: rgb(237, 14, 14);
+    margin-left: 715px;
+    box-shadow: 0px 0px 44px rgb(3, 240, 221);
+}
